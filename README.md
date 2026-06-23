@@ -1,4 +1,16 @@
-# Cybersecurity-Tools-and-Labs
-🎓 BTech CSE Student | Python Developer &amp; Cybersecurity Enthusiast
-🔐Learning Ethical Hacking, Computer Networks, and Secure Coding 
-🛠️ Building network tools using Python
+# Hi there, I'm Nisha! 👋
+
+## 🚀 About Me
+- 🎯 Currently pursuing B.Tech in Computer Science.
+- 💻 Passionate about **Python Programming** and **Cybersecurity**.
+- 🌐 Completed Computer Networking basics and now learning Network Security.
+
+## 🛠️ Tech Stack & Skills
+- **Languages:** Python
+- **Cybersecurity:** Computer Networks, Port Scanning
+- **Platforms:** GitHub
+
+## 📁 My Featured Projects
+- 🛡️ **[Port Scanner Tool](./Cybersecurity-Tools-and-Labs):** A Python script to scan network ports using sockets.
+- 🔑 **Password Evaluator:** Checks password strength using logic.
+
