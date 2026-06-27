@@ -13,5 +13,5 @@
 ## 📁 My Featured Projects
 - 🛡️ **[Port Scanner Tool](./Cybersecurity-Tools-and-Labs):** A Python script to scan network ports using sockets.
 - 🔑 **Password Evaluator:** Checks password strength using logic.
-- 🔑 **Network Scanner:** scans entire /24 subnetto find live hosts using TCP port 135 
+- 🔑 **Network Scanner:** scans entire /24 subnet find live hosts using TCP port 135 
 
